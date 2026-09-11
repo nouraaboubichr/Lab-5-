@@ -57,7 +57,29 @@
 * `VoitureElectrique` hérite également de `Motorise`, mais adapte le ravitaillement pour représenter la recharge de la batterie.
 * Si le niveau de carburant est insuffisant pour effectuer un trajet, un message d'avertissement est affiché et le déplacement n'est pas réalisé.
 * Enfin, la classe `Flotte` permet de gérer les véhicules dans un tableau dynamique et de calculer certaines informations générales, comme la distance totale parcourue.
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024637.png" />
 
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024655.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024705.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024719.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024731.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024744.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024801.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024813.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024825.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024837.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024844.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 025329.png" />
 # Exercice 4 - Gestion d'une bibliothèque
 
 * Dans cet exercice, on développe une bibliothèque pouvant gérer plusieurs types de documents.
