@@ -83,13 +83,16 @@
 
 # Exercice 4 - Gestion d'une bibliothèque
 
-* Dans cet exercice, on développe une bibliothèque pouvant gérer plusieurs types de documents.
-* La classe `Document` contient les informations communes aux documents, notamment un numéro d'enregistrement généré automatiquement, un titre et un auteur éventuellement absent.
-* Les classes `Livre` et `Journal` héritent de `Document` et ajoutent leurs propres informations : nombre de pages et éditeur pour un livre, date de publication et numéro pour un journal.
-* Les attributs sont privés afin de respecter le principe d'encapsulation. Leur accès se fait à travers des méthodes prévues à cet effet.
-* La classe `Bibliotheque` stocke les documents dans un tableau de capacité fixe et fournit plusieurs opérations : ajouter, supprimer, rechercher et afficher les documents, ainsi que lister les auteurs.
-* Le programme principal propose un menu permettant à l'utilisateur d'effectuer différentes opérations sur la bibliothèque jusqu'à la sélection de l'option de sortie.
-* Cet exercice permet notamment de pratiquer l'héritage, l'encapsulation, le polymorphisme et la gestion d'un tableau d'objets.
+* Dans cet exercice, on développe un système de gestion d'une flotte de véhicules pouvant gérer plusieurs types de véhicules motorisés.
+
+* La classe Vehicule contient les informations communes aux véhicules, notamment un identifiant généré automatiquement et un modèle.
+* La classe Motorise hérite de Vehicule et ajoute la gestion d'un moteur (par composition), d'un niveau de carburant et de la distance totale parcourue.
+* Les classes Voiture, Camion, Moto et VoitureElectrique héritent de Motorise et ajoutent leurs propres informations : nombre de portes pour une voiture, capacité de charge pour un camion, cylindrée pour une moto, et un comportement de recharge spécifique pour une voiture électrique.
+* Les attributs sont privés ou protégés afin de respecter le principe d'encapsulation. Leur accès se fait à travers des méthodes prévues à cet effet.
+* La classe Flotte stocke les véhicules dans un tableau qui s'agrandit dynamiquement et fournit plusieurs opérations : ajouter un véhicule, afficher tous les véhicules et calculer la distance totale parcourue par la flotte.
+* Le programme principal crée plusieurs véhicules de types différents, les ajoute à la flotte, puis simule des actions de conduite (démarrage, roulage, ravitaillement) en tenant compte du niveau de carburant ou de batterie disponible.
+* Cet exercice permet notamment de pratiquer l'héritage multi-niveaux, la composition, l'encapsulation, le polymorphisme et la gestion d'un tableau dynamique d'objets.
+
 <img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030124.png" />
 
 <img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030133.png" />
