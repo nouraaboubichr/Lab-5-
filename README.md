@@ -80,6 +80,7 @@
 <img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024844.png" />
 
 <img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 025329.png" />
+
 # Exercice 4 - Gestion d'une bibliothèque
 
 * Dans cet exercice, on développe une bibliothèque pouvant gérer plusieurs types de documents.
@@ -89,3 +90,23 @@
 * La classe `Bibliotheque` stocke les documents dans un tableau de capacité fixe et fournit plusieurs opérations : ajouter, supprimer, rechercher et afficher les documents, ainsi que lister les auteurs.
 * Le programme principal propose un menu permettant à l'utilisateur d'effectuer différentes opérations sur la bibliothèque jusqu'à la sélection de l'option de sortie.
 * Cet exercice permet notamment de pratiquer l'héritage, l'encapsulation, le polymorphisme et la gestion d'un tableau d'objets.
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030124.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030133.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030151.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030203.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030224.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030240.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030253.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030356.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030407.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 030505.png" />
+
