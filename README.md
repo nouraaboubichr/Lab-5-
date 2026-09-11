@@ -32,6 +32,21 @@
 * Grâce à l'héritage, un même tableau peut contenir des mammifères, des oiseaux et des reptiles.
 * Lors de l'affichage, chaque objet utilise automatiquement sa propre version de la méthode redéfinie, ce qui permet d'illustrer le polymorphisme.
 
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 023907.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 023922.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 023935.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 023944.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 023958.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024017.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 024048.png" />
+
+
 # Exercice 3 - Parc de véhicules avec héritage et composition
 
 * Cet exercice permet d'étudier à la fois l'héritage et la composition à travers la gestion d'un parc de véhicules.
