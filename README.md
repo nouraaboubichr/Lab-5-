@@ -9,6 +9,20 @@
 * Les différentes classes personnalisent leur affichage pour présenter leurs informations spécifiques.
 * Cet exercice permet ainsi de comprendre l'héritage et la redéfinition des méthodes, tout en réutilisant les fonctionnalités communes de la classe parent.
 
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022439.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022447.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022507.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022536.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022549.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022558.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-11 022616.png" />
+
 # Exercice 2 - Gestion d'un zoo avec tableau dynamique d'animaux
 
 * Le but de cet exercice est de représenter un zoo contenant plusieurs catégories d'animaux.
